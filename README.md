@@ -1,2 +1,2 @@
-# Greatnesstribe-slpp.site
-UNLOCK YOUR LEADERSHIP POTENTIAL Are You Ready to Breakthrough to Exceptional Leadership and Peak Performance? Join the GreatnessTribe's transformative leadership training and discover the secrets to unlocking your full potential. 
+# Camp_06-04-24
+Unlock the power of web development with our comprehensive tutorial on creating a dynamic landing page using HTML, CSS, and JavaScript!
